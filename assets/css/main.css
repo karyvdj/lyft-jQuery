@@ -1,17 +1,16 @@
-body{
-    background-image: url(../img/lyft.gif);
+.carga{
+    background: radial-gradient(circle, #e62aeb, #9e19af, #5e0360);
     max-height: 100%;
     min-height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    display: flex;
+    align-items: center;
 }
-.contenedor-logo{
-	display: flex;
-	justify-content: center;
+.aling-center{
+  text-align: center;
 }
-
 .logo-blanco{
   width: 40%;
-  height: 15%;
 }
