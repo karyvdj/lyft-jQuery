@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    padding: 0;
+    height: 100vh;
+    position: relative;
+  	background-image: url(../img/ciudad.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+  	background-position: center;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+  }
