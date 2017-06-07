@@ -16,12 +16,12 @@
     margin-top: 8%;
   }
   .contenedor-btns .btn-home{
-    border-radius: 10px;
+    border-radius: 20px;
     border: 1px solid white;
     margin: 4%;
     margin-top: 70vh;
     background: rgba(255, 255, 255, .2)
   }
- .btn-home .sign{
-    border: 1px solid #9c27b0;
+  .contenedor-btns .btn-sign{
+    border: 1px solid #00acc1;
   }
